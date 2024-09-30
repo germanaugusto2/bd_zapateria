@@ -68,6 +68,6 @@
 
 ![Consulta 8](img/consulta_8.png "Consulta 8")
 
-9. obtener el precio promedio de los articulos cuyo id delfabricante sea fab02
+9. obtener el precio promedio de los articulos cuyo id del fabricante sea fab02
 
 10. Obtener el numero de articulos cuyo precio sea mayor igual a 50000
